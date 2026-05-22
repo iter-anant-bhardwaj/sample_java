@@ -3,7 +3,7 @@ public class Test {
   static void add(){
 
     int a=20;
-    int b=60;
+    int b=20;
     int result = a*b;
     System.out.println("The product is " +result);
     
